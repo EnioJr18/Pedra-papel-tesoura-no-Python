@@ -48,6 +48,12 @@ Execute o jogo: <br>
 * *OS*: Para manipulação e limpeza do terminal. <br>
 * *Time*: Para criar o efeito de suspense ("Jo-ken-pô"). <br>
 
+## 🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ## 👨‍💻 Autor
 Desenvolvido por Enio Jr, para fins de estudo de lógica de programação e Python.
 
